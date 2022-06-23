@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88a63f15-a77c-46ea-8ad1-1fa8a02df5dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_staffers/lu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/UCI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syllabus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_announcements/week-0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_announcements/week-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/custom/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/custom/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/custom/module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/custom/module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/custom/schedule.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/custom/schedule.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/custom/staffer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/custom/staffer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_schedules/weekly.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedules/weekly.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_staffers/evil-kevin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_staffers/kevin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_staffers/more-evil-kevin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_staffers/brooke.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_staffers/really-evil-kevin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendar.md" beforeDir="false" afterPath="$PROJECT_DIR$/calendar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staff.md" beforeDir="false" afterPath="$PROJECT_DIR$/staff.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2AxXjQplVtBg3X62aT7oyGwB2Jn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88a63f15-a77c-46ea-8ad1-1fa8a02df5dc" name="Default Changelist" comment="" />
+      <created>1655952344588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655952344588</updated>
+      <workItem from="1655952345657" duration="14597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="992" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655968390658">
+      <screen x="0" y="25" width="1792" height="1035" />
+    </state>
+    <state x="992" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1035@0.25.1792.1035" timestamp="1655968390658" />
+    <state x="843" y="317" width="597" height="490" key="find.popup" timestamp="1655965002712">
+      <screen x="0" y="25" width="1792" height="1035" />
+    </state>
+    <state x="843" y="317" width="597" height="490" key="find.popup/0.25.1792.1035@0.25.1792.1035" timestamp="1655965002712" />
+  </component>
+</project>

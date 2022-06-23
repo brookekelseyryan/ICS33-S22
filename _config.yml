@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
+title: ICS 33
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
@@ -28,11 +28,17 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
-footer_content:
+  Brooke K. Ryan:
+    - 'https://brookekryan.com'
+  Canvas:
+    - 'https://canvas.eee.uci.edu/courses/47155'
+  Piazza:
+    - 'http://piazza.com/uci/summer2022/ics33'
+  Discord:
+    - 'https://discord.gg/qxjajH2v'
+  ICS 183 Lab Hours:
+    - 'https://www.ics.uci.edu/~lab/lab_schedule/index.php'
+footer_content: Copyright Brooke K. Ryan 2022
 
 # Collections for website data
 collections:

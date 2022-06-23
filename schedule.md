@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule
+title: Schedule 
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
-
+# Weekly Schedule 🏫
+ 
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}

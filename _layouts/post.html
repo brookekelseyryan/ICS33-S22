@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1 id="{{ page.title | slugify }}" >{{ page.title }}</h1>
+<h4 class="display-6 article-subtitle mb-4 text-muted">{{ page.subtitle }}</h4>
+
+<div class="align-self-center">
+    {% if page.youtube %}
+    <figure id="video">
+        <iframe  class="rounded border-brooke" style="width:99%;" height="450" src="{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+    </figure>
+    {% elsif page.image %}
+    <img class="rounded border-brooke" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+    {% endif %}
+</div>
+
+<article>
+{{ content }}
+
+{% if page.crosspost %}
+Originally posted {{ page.crosspost }}.
+{% endif %}
+
+</article>

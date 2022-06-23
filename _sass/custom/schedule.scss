@@ -63,6 +63,7 @@
     height: 40px;
     justify-content: center;
     margin: 0;
+    font-family: aktiv-grotesk, sans-serif;
   }
 
   .schedule-events {
@@ -93,15 +94,15 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: thistle;
     }
 
-    &.section {
-      background-color: $purple-000;
+    &.lab-brooke-office-hours {
+      background-color: teal;
     }
 
-    &.office-hours {
-      background-color: $blue-000;
+    &.lab-lu-office-hours {
+      background-color: teal;
     }
   }
 }
