@@ -19,7 +19,6 @@ Introduces Python syntax and semantics for fundamental programming concepts. Con
 
 {% if site.announcements.size != 0 %}
 ## Announcements
-Course announcements will be posted here. Please be sure to check this page regularly for any updates. 
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
